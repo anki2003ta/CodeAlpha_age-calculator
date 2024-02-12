@@ -1,7 +1,7 @@
 <h1>Web Development Internship (Task-1).</h1>
 <p>Task 1 project - Age Calculator (using HTML5,CSS,JavaScript)! </p>
 <h1>About This Project:<h1>
-<p>a web-based Age Calculator using
+<p>A web-based Age Calculator using
 JavaScript to calculate users' ages based on
 their submitted date of birth, month, and year.
 JavaScript's built-in date and time functions
